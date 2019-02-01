@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+# The purpose for the solution file is to set up repo using Visual Studio 
+*.sln
